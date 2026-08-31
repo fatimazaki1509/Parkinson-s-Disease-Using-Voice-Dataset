@@ -22,6 +22,9 @@ The application is built using Streamlit and provides an intuitive web-based int
 
 https://parkinson-s-disease-using-voice-dataset-ydhmo7em7hafdfwfklxczm.streamlit.app/
 
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/0cde5112-db9f-4dd9-bde3-ea57a0b434f5" />
+
+
 ---
 
 ## ✨ Features
